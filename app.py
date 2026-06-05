@@ -64,7 +64,7 @@ st.markdown("Predicts the probability an employee will leave, and explains the t
 col1, col2, col3 = st.columns(3)
 col1.metric("Model", "XGBoost")
 col2.metric("AUC-ROC", "0.763")
-col3.metric("Dataset", "IBM HR — 14,999 rows")
+col3.metric("Dataset", "IBM HR — 1,470 rows")
 
 st.divider()
 

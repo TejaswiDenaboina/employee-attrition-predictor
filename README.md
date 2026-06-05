@@ -8,7 +8,7 @@
 A machine learning web app that predicts employee attrition risk using XGBoost
 and explains each prediction using SHAP (SHapley Additive exPlanations).
 
-**Live demo:** [Coming soon — Streamlit Cloud link here]
+**Live demo:** [Employee Attrition Predictor](https://employee-attrition-predictor-gk6cc3hbxjrqjo3rdrqgcm.streamlit.app/)
 
 ---
 
